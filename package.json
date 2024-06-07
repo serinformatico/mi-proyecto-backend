@@ -11,8 +11,8 @@
         "stop-linux": "killall -9 node",
         "lint": "eslint ./src --fix"
     },
-    "node-engines": {
-        "node": "14.x"
+    "engines": {
+        "node": ">=14.x"
     },
     "repository": {
         "url": "https://github.com/serinformatico/mi-proyecto-backend.git"
